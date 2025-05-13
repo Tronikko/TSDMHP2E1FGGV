@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TSDMHP2E1FGGV</string>
+    <string name="ltab1">Tabulador uno</string>
+    <string name="ltab2">Tabulador dos</string>
+    <string name="ltab3">Tabulador tres</string>
+    <string name="p2titulo">estamos cargando una actividad</string>
+    <string name="p2l1">Aqui los datos personales</string>
+</resources>
